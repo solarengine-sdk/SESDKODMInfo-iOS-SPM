@@ -1,6 +1,6 @@
 # SESDKODMInfo for iOS
 
-Official SolarEngine ODMInfo plugin for iOS. Use with [SolarEngineSDK-CN](https://github.com/solarengine-sdk/SolarEngineSDK-iOS-CN-SMP) or [SolarEngineSDK-VG](https://github.com/solarengine-sdk/SolarEngineSDK-iOS-VG-SMP).
+Official SolarEngine ODMInfo plugin for iOS. Use with  [SolarEngineSDK-VG](https://github.com/solarengine-sdk/SolarEngineSDK-iOS-VG-SMP).
 
 ## Requirements
 
